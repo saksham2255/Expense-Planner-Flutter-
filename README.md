@@ -1,4 +1,5 @@
-Expense Planner App 
+Expense Planner App - Track your daily expenses with ease!
+
 
 ![screen_1](https://user-images.githubusercontent.com/76102969/130830639-6de12a44-1bfc-4f5b-82dd-62376ecb0f92.png)
 ![screen_2](https://user-images.githubusercontent.com/76102969/130830683-1c3dc83a-eade-48f5-8bc3-1d036a7f8f03.png)
